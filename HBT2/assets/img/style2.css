@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color:#333;
+     padding-left: 30px;
+    margin-top: -5px;
+     size: 30px;
+     width: 100% ;
+     height: 100px;
+     padding-top: 30px;
+ }
+ .HBT1{
+     text-decoration: none;
+     color: white;
+     font-size: 30px;
+     padding-left: 5%;
+ }
+ .home1{
+     text-decoration: none;
+     color: white;
+     margin-left: 890px;
+     font-size: 21px;
+     padding: 33px 20px 37px 20px ;
+ }
+ .home1:hover{
+     color: coral;
+     text-align: center;
+     background-color: gray;
+ }
+ .About1{
+     text-decoration: none;
+     color: white;
+     margin-left: 70px;
+     font-size: 21px;
+     padding: 33px 20px 37px 20px ;
+ }
+ .About1:hover{
+     color: coral;
+     text-align: center;
+     background-color: gray;
+ }
+ .Contact1{
+     text-decoration: none;
+     color: white;
+     margin-left: 70px;
+     font-size: 21px;
+     padding: 33px 20px 37px 20px ;
+ }
+ .Contact1:hover{
+     color: coral; 
+     text-align: center;
+     background-color: gray;
+ }
+ .About2{
+     color: coral;
+     padding-left: 5%;
+ 
+ }
+ .About3{
+ font-size: 130%;
+ padding-left: 7%;
+ padding-top: 2%;
+ }
+ .p1{
+     width: 600px;
+     height: 100%;
+     padding-left: 5%;
+     padding-top: 3%;
+ }
+ .About3 img{
+     border-radius: 130%;
+     width: 20%;
+     height: 20%;
+    margin-top: -14%;
+    margin-left: 60%;
+ }
+ #guest{
+     background-image: url('test-bg.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+     height: 700px;
+     padding-top: 20%;
+ 
+ }
+ .conta {
+     background-color:coral ;
+     width: 57%;
+     margin-left: 20%;
+     
+ }
+ .conta img {
+     width: 100px;
+     border-radius: 50%;
+     padding: 5px;
+ }
+ .conta1 {
+     background-color: coral;
+     width: 80%;
+     width: 57%;
+     margin-top: 2%;
+     margin-left: 20%;
+ }
+ .conta1 img {
+     width: 100px;
+     border-radius: 50%;
+     padding: 5px;
+ }
+ .conta p{
+     position: absolute;
+     text-align: center;
+     width: 50%;
+     padding-left: 120px;
+     margin-top: -95px;
+ }
+ .conta1 p{
+     position: absolute;
+     text-align: center;
+     width: 50%;
+     padding-left: 120px;
+     margin-top: -95px;
+ }
+ footer{
+     background-color: #333;
+     text-align: center;
+     width: 100%;
+     height: 50px;
+     padding-top: 20px;
+     color: white;
+ }
+ 
